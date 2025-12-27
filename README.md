@@ -2,7 +2,7 @@
   <h1>Hi there! I'm Kevin Fabian 👋</h1>
   <h3>Web Developer | Backend & Frontend</h3>
   
-  <a href="www.linkedin.com/in/kevin-eduardo-fabian-chi-5191bb354">
+  <a href="https://www.linkedin.com/in/kevin-eduardo-fabian-chi-5191bb354">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kevinchi2911@gmail.com">
@@ -45,12 +45,11 @@ Here are the tools and languages I work with:
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinFach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KevinFach&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Kevin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinFach&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFach&theme=tokyonight&hide_border=true&background=0d1117" alt="streak stats" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KevinFach&theme=tokyonight&hide_border=true&background=0d1117" alt="Kevin's Streak" />
+</p>
